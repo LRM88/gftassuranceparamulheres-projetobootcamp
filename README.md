@@ -8,7 +8,18 @@ Criar conceitos úteis para testes manuais no mundo ágil.
 Bem como compreender e praticar atividades relativas ao dia a dia de um QA, com foco em testes manuais funcionais.
 
 
-Slides;
+A prática de testes manuais funcionais
+ 
+Objetivo é revisar conceitos úteis para testes manuais no mundo ágil, bem como compreender e praticar atividades relativas ao dia a dia de um QA, com foco em testes manuais funcionais.
 
-https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EZn3n5RAgFFJgz1SePsXsxkBivxcAhWx90n9jzvRKFnX2Q?rtime=oTIN4cjT2kg
+
+Plano de fluxo de trabalho levando em consideração o ciclo de vida do bug;
+
+Mind Map de pelo menos uma user story;
+
+Duas user stories pensadas pelo aluno;
+
+Dois casos de teste utilizando a técnica step-by-step;
+
+Dois casos de teste utilizando BDD.
 
